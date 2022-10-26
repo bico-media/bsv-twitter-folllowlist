@@ -22,8 +22,7 @@ will be included in the results.
 How Do I Use It?
 ----------------
 
-If you are technically savvy you may use the provided CSV along with either 
-[this tool](https://github.com/zonca/twitter_blocklist) or [this tool](https://github.com/JusticeRage/twitter-blocklist)
+If you are technically savvy you may use the provided CSV.
 
 If you want a more user-friendly version then you may authorize my 
 Twitter app (coming soon™) to follow the accounts from the CSV. Be aware that due to 
